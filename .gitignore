@@ -1,0 +1,10 @@
+Assets/
+combined_files/
+Data/
+venv/
+apikeys.txt
+combined_files.csv
+just_dates_and_text.csv
+nice_combined_data.csv
+ticker_data.csv
+x.txt
